@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+numpy>=1.20.0
+Pillow>=9.0.0
+pyautogui>=0.9.50
+PyQt5>=5.15.0
